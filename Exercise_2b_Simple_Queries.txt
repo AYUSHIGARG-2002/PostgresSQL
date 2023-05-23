@@ -1,0 +1,36 @@
+--Actor table
+1. Get first_name , last_name for actors
+2. Get first_name, last_name only 5 rows.
+3. Get first_name, last_name of 5 actors who have been modified last
+4. Get top 5 repeating last_names of actors.
+5. Get top 6 repeating first_name of actors.
+
+--Film table
+6. Get count of films in table
+7. What is average movie length (use length column)
+8. Count of movies for each rating (use rating column)
+9. Get list of horror movies
+10. Movies that contain CAT in title.
+
+--Category
+11. How many movie categories are there?
+12. Are category names repeating ?
+
+--Country & City
+13. how many countries and cities ?
+14. For each country get the list of cities.
+
+
+--Customer
+15. Get list of active customers
+16. Do any customer share same emailID
+17. List of customers with same lastname
+
+
+--film_category
+18. Total movies that are categoried
+19. Total rows in inventory
+
+
+
+

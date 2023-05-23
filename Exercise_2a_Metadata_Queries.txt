@@ -1,0 +1,15 @@
+All Queries to be executed in Shakila database
+1. Get list of tables 
+2. Get list of columns and data types
+3. Get list of Schema, tables, columns.
+4. Get list of constraints (Primary Key, Foreign Key, Check Constraints).
+5. What is difference between Primary Key, Foreign Key and Unique Contraints.
+6. Get list of indexes for each tables.
+7. Understand table structures along with relationships, for each table look at data and see if they are in 1 Normal form, 2nd Normal Form or 3rd Normal form. Format should be
+<Table> <Name> <Normal Form Reason>
+8. Create Database diagram for tables in shakila using https://dbdiagram.io/home/ and send the screenshots.
+9. Calculate size of each table and total database size.
+10. Get list of users and related permissions.
+
+
+	

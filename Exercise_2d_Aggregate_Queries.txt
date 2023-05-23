@@ -1,0 +1,19 @@
+Aggregate Queries
+1. Count of movies acted by actor with actor list in descending order (by count of movies acted).
+2. Which actor has highest "Average movie rating"
+3. Count of movies per language
+4. Movie collection by stores 
+	4.1 How many movies of same film are stored in each store
+	4.2 How many unique movies in each store.
+5. Average length of movies.
+6. Which language movies are longest
+7. Which language movies have highest rating
+8. Count of movies by category
+9. Top 3 actors who worked in horror movies
+10. Top 3 actors who acted in action or romantic movies.
+11. Count of movies rented by Country
+12. Top 3 film renting customers in each city of every country.
+13. Number of employees in each store
+14. Min, Max, average, 90 percentile of rental amount paid by customers in each country.
+	Paraphrashing, which country provides more early opportunity.
+15. Which employee has rented move movies and what is earning amount per flim.
